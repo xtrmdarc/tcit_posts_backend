@@ -24,5 +24,3 @@ test:
 production:
   <<: *default
   database: tcit_posts_backend_production
-  username: tcit_posts_backend
-  password:
